@@ -30,7 +30,7 @@ Sample Output
 2 x 7 = 14
 2 x 8 = 16
 2 x 9 = 18
-2 x 10 = 20*/
+2 x 10 = 20 */
 import java.util.*;
 
 public class Java_Loops_I {
