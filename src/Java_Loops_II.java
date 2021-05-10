@@ -58,7 +58,7 @@ public class Java_Loops_II {
             int a = in.nextInt();
             int b = in.nextInt();
             int n = in.nextInt();
-            for(int j = 0; j <=n; j++) {
+            for(int j = 0; j <=n-1; j++) {
                 a += Math.pow(2,j)*b;
                 System.out.print(a + " ");
             }
